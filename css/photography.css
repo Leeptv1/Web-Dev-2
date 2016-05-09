@@ -1,0 +1,14 @@
+@charset "utf-8";
+body{ background-color: black;
+}
+
+#image1 { float: right;
+		background-color: black;
+		color: white;
+		text-align:center;
+}
+#image2 { float: left;
+			background-color: balck;
+			color: white;
+			text-align: center;
+}

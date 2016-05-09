@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+.carousel-caption { color: black;
+					font-family: sans-serif;
+}
+.carousel-cap { color: white;
+}
+
+form {align-content:center;
+background-color:black;
+text-align:center;
+color:white;
+font-style:italic;
+margin:40px;
+
+}
+				

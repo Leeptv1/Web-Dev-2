@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+.row{ color: white;
+		  font-family: sans-serif;
+		  background-color: black;
+		 
+}
+body { background-color: black;
+}
+.footer { background-color: black;
+			color: white;
+}
+#image { background-color: balck;
+		position:relative;
+		align-content: center;
+}
